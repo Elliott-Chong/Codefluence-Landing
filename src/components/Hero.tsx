@@ -11,7 +11,7 @@ import logoTuple from '@/images/logos/tuple.svg'
 
 export function Hero() {
   return (
-    <Container className="pb-16 pt-64 text-center lg:pt-64">
+    <Container className="pb-16 text-center">
       <h1 className="mx-auto max-w-4xl font-display text-5xl font-medium tracking-tight text-slate-900 sm:text-7xl">
         Documentation{' '}
         <span className="relative whitespace-nowrap text-blue-600">
@@ -33,9 +33,15 @@ export function Hero() {
         documentation landscape.
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
-        <Button color="blue">Add to Jira</Button>
         <Button
-          href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          target="_blank"
+          href="https://developer.atlassian.com/console/install/e82371b4-5cc6-4906-bb6f-1e19f6669514?signature=cc3aee98ace6503e20a2f12d2a3d6ce5af69ab0a6f70c29bdbdde591ccb154b1388d9dccbaf44d1eed167643652560bfe2ba34c71cfc033ed834cd2109624a4c&product=confluence"
+          color="blue"
+        >
+          Add to Confluence
+        </Button>
+        <Button
+          href="https://drive.google.com/file/d/17A54EO90xFlsvec6YlW17SVO_-iB6y2s/view?usp=sharing"
           variant="outline"
         >
           <svg
@@ -47,6 +53,13 @@ export function Hero() {
           <span className="ml-3">Watch video</span>
         </Button>
       </div>
+      <iframe
+        src="https://drive.google.com/file/d/17A54EO90xFlsvec6YlW17SVO_-iB6y2s/preview"
+        width="860"
+        height="480"
+        className="mx-auto mt-8"
+        allow="autoplay"
+      ></iframe>
       <div className="mt-36 lg:mt-44">
         {/* <p className="font-display text-base text-slate-900">
           Trusted by these six companies so far

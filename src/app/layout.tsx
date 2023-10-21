@@ -6,11 +6,11 @@ import { type Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: {
-    template: '%s - TaxPal',
-    default: 'TaxPal - Accounting made simple for small businesses',
+    template: '%s - CodeFluence',
+    default: 'CodeFluence - AI Powered Documentation',
   },
   description:
-    'Most bookkeeping software is accurate, but hard to use. We make the opposite trade-off, and hope you don’t get audited.',
+    "CodeFluence is a platform that streamlines the documentation generation process for GitHub projects. It automates the creation of project documentation by analyzing the project's codebase, identifying key components, and generating informative content. Users can simply provide a link to their GitHub project, and CodeFluence handles the rest, producing comprehensive documentation.",
 }
 
 const inter = Inter({

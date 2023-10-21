@@ -77,7 +77,7 @@ const features: Array<Feature> = [
   {
     name: '# 3',
     summary:
-      'Pose your queries and get precise answers derived from the documentation.',
+      'Post your queries and get precise answers derived from the documentation.',
     description:
       'This also isn’t actually a feature, it’s just some friendly advice. We definitely recommend that you do this, you’ll feel really organized and professional.',
     image: screenshotQagen,
