@@ -40,7 +40,7 @@ export function Hero() {
         >
           Add to Confluence
         </Button>
-        <Button href="https://youtu.be/embed/GkILyVkQNmU" variant="outline">
+        <Button href="https://youtube.com/GkILyVkQNmU" variant="outline">
           <svg
             aria-hidden="true"
             className="h-3 w-3 flex-none fill-blue-600 group-active:fill-current"
@@ -51,7 +51,7 @@ export function Hero() {
         </Button>
       </div>
       <iframe
-        src="https://youtu.be/PDNamnJcB_I"
+        src="https://youtube.com/embed/PDNamnJcB_I"
         width="860"
         height="480"
         className="mx-auto mt-8"
