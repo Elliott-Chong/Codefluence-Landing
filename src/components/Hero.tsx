@@ -40,7 +40,11 @@ export function Hero() {
         >
           Add to Confluence
         </Button>
-        <Button href="https://youtube.com/GkILyVkQNmU" variant="outline">
+        <Button
+          href="https://youtu.be/GkILyVkQNmU"
+          target="_blank"
+          variant="outline"
+        >
           <svg
             aria-hidden="true"
             className="h-3 w-3 flex-none fill-blue-600 group-active:fill-current"
