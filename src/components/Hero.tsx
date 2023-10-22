@@ -41,7 +41,7 @@ export function Hero() {
           Add to Confluence
         </Button>
         <Button
-          href="https://drive.google.com/file/d/17A54EO90xFlsvec6YlW17SVO_-iB6y2s/view?usp=sharing"
+          href="https://youtu.be/GkILyVkQNmU"
           variant="outline"
         >
           <svg
@@ -50,11 +50,11 @@ export function Hero() {
           >
             <path d="m9.997 6.91-7.583 3.447A1 1 0 0 1 1 9.447V2.553a1 1 0 0 1 1.414-.91L9.997 5.09c.782.355.782 1.465 0 1.82Z" />
           </svg>
-          <span className="ml-3">Watch video</span>
+          <span className="ml-3">Watch How I Built It</span>
         </Button>
       </div>
       <iframe
-        src="https://drive.google.com/file/d/17A54EO90xFlsvec6YlW17SVO_-iB6y2s/preview"
+        src="https://youtu.be/PDNamnJcB_I"
         width="860"
         height="480"
         className="mx-auto mt-8"
