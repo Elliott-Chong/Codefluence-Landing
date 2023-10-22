@@ -26,7 +26,7 @@ export function Footer() {
               </svg>
             </Link> */}
             <Link
-              href="https://github.com/Reluvate/codefluence"
+              href="https://github.com/elliott-chong/codefluence"
               className="group"
               aria-label="TaxPal on GitHub"
             >
