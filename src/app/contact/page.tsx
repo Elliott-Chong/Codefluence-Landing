@@ -9,29 +9,25 @@ const people = [
   {
     name: 'Elliott Chong',
     role: 'Developer',
-    imageUrl:
-      'https://media.canva.com/1/image-resize/1/600_800_92_JPG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS84ZmRrRS9NQUZtUUY4ZmRrRS8xL3AuanBn?osig=AAAAAAAAAAAAAAAAAAAAAO-s0waTHwEIzbsypF17CYFqyEQrQzwdT2B0Gm3t1BO0&exp=1697945640&x-canva-quality=screen&csig=AAAAAAAAAAAAAAAAAAAAAAC44CCmf0tRy_qRRKogqQ4VukXS2byPI9sQUL7AIGEc',
+    imageUrl: '/elliott.jpg',
     githubUrl: 'https://github.com/elliott-chong',
   },
   {
     name: 'Kaung Sithu Hlaing',
     role: 'Developer',
-    imageUrl:
-      'https://media.canva.com/1/image-resize/1/200_168_75_JPG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS9TR3h6QS9NQUZtUUJTR3h6QS8xL3AuanBn?osig=AAAAAAAAAAAAAAAAAAAAACZOCOneKwLpNg4p767aVuFeyPwShuMhXl-nJV8kIV-C&exp=1697947962&x-canva-quality=thumbnail&csig=AAAAAAAAAAAAAAAAAAAAAANQaXFu26FJ_E_W8bcj_NtW5uN0fIJNM7Fdc3rZVUSY',
+    imageUrl: 'sithu.jpg',
     githubUrl: 'https://github.com/CptKingFish',
   },
   {
     name: 'Timothy Chia',
     role: 'Business Development',
-    imageUrl:
-      'https://media.canva.com/1/image-resize/1/200_200_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS9wellQUS9NQUZtUU9wellQUS8xL3AucG5n?osig=AAAAAAAAAAAAAAAAAAAAAGe1kyNlaV_kXVHwSHwwAUjOE_n2XK4Qv5DRoJTOXs18&exp=1697948190&x-canva-quality=thumbnail&csig=AAAAAAAAAAAAAAAAAAAAANOfmXeeU1mtWaYtp1CrSqIougl-Yp9gu8Ag1DCGGilW',
+    imageUrl: 'timothy.jpg',
     githubUrl: 'https://github.com/chiatzeheng',
   },
   {
     name: 'Elston Tan',
     role: 'AI Engineer',
-    imageUrl:
-      'https://media.canva.com/1/image-resize/1/200_200_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS9nZDI2dy9NQUZtUVBnZDI2dy8xL3AucG5n?osig=AAAAAAAAAAAAAAAAAAAAAOL92V9_TtO0nThH1nXb8DMY8VjCcO1XNMpoOVUu1fd_&exp=1697947029&x-canva-quality=thumbnail&csig=AAAAAAAAAAAAAAAAAAAAADkLtTKZ5cr8YxiuCvQDr2Uh4_Ir3VDUQcexEVCpfFfc',
+    imageUrl: 'elston.jpg',
     githubUrl: 'https://github.com/Elstuhn/',
   },
 ]
